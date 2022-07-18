@@ -1,16 +1,24 @@
-### Hi there 👋
+[![1.- 'Nefasto'](https://img.youtube.com/vi/SWNbhMxS4S4/0.jpg)](https://www.youtube.com/watch?v=SWNbhMxS4S4  "1.- 'Nefasto'")
+[![2.- 'Writer'](https://img.youtube.com/vi/1PB176jjic8/0.jpg)](https://www.youtube.com/watch?v=1PB176jjic8  "2.- 'Writer'")
+[![3.- 'Back and Fro'](https://img.youtube.com/vi/uwmr2eNdpE4/0.jpg)](https://www.youtube.com/watch?v=uwmr2eNdpE4  "3.- 'Back and Fro'")
+[![4.- 'Planetc'](https://img.youtube.com/vi/F44txcWQoJQ/0.jpg)](https://www.youtube.com/watch?v=F44txcWQoJQ  "4.- 'Planetc'")
+[![5.- 'Black'](https://img.youtube.com/vi/rcAxMjoC7fw/0.jpg)](https://www.youtube.com/watch?v=rcAxMjoC7fw  "5.- 'Black'")
+[![6.- 'list'](https://img.youtube.com/vi/_DSxx9E3MCQ/0.jpg)](https://www.youtube.com/watch?v=_DSxx9E3MCQ  "6.- 'list'")
+[![7.- 'A cool name'](https://img.youtube.com/vi/RVxpNONLZ8o/0.jpg)](https://www.youtube.com/watch?v=RVxpNONLZ8o  "7.- 'A cool name'")
+[![8.- '50%'](https://img.youtube.com/vi/_4Vfk487foQ/0.jpg)](https://www.youtube.com/watch?v=_4Vfk487foQ  "8.- '50%'")
+[![9.- 'advisory content'](https://img.youtube.com/vi/ybNa3a48fxk/0.jpg)](https://www.youtube.com/watch?v=ybNa3a48fxk  "9.- 'advisory content'")
+[![10.- 'BUY NEVER'](https://img.youtube.com/vi/Utmf9RgCITo/0.jpg)](https://www.youtube.com/watch?v=Utmf9RgCITo  "10.- 'BUY NEVER'")
+[![11.- 'Bull's-eye'](https://img.youtube.com/vi/VCzKkBZ-03w/0.jpg)](https://www.youtube.com/watch?v=VCzKkBZ-03w  "11.- 'Bull's-eye'")
+[![12.- 'Where are my royalties'](https://img.youtube.com/vi/zg2NECdI3OY/0.jpg)](https://www.youtube.com/watch?v=zg2NECdI3OY  "12.- 'Where are my royalties'")
+[![13.- 'Who u tryna' impress'](https://img.youtube.com/vi/Nx3ucT01P-g/0.jpg)](https://www.youtube.com/watch?v=Nx3ucT01P-g  "13.- 'Who u tryna' impress'")
+[![14.- 'The bad words'](https://img.youtube.com/vi/rEKs9ttSOLA/0.jpg)](https://www.youtube.com/watch?v=rEKs9ttSOLA  "14.- 'The bad words'")
+[![15.- 'Journey to Wasted Youth'](https://img.youtube.com/vi/0EdaPCRZXmY/0.jpg)](https://www.youtube.com/watch?v=0EdaPCRZXmY  "15.- 'Journey to Wasted Youth'")
 
-<!--
-**afaces/afaces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![16.- 'Lyricless Miracles'](https://img.youtube.com/vi/FzD53ikXz5w/0.jpg)](https://www.youtube.com/watch?v=FzD53ikXz5w  "16.- 'Lyricless Miracles'")
+[![17.- 'irl'](https://img.youtube.com/vi/g9dWBnJ20MQ/0.jpg)](https://www.youtube.com/watch?v=g9dWBnJ20MQ  "17.- 'irl'")
+[![18.- 'before senescence'](https://img.youtube.com/vi/uEgdTjGGk-Y/0.jpg)](https://www.youtube.com/watch?v=uEgdTjGGk-Y  "18.- 'before senescence'")
+[![19.- 'back to the origins'](https://img.youtube.com/vi/Lt66WnK2Xq4/0.jpg)](https://www.youtube.com/watch?v=Lt66WnK2Xq4  "19.- 'back to the origins'")
+[![20.- 'conversation conservation'](https://img.youtube.com/vi/msZJIYzS7vA/0.jpg)](https://www.youtube.com/watch?v=msZJIYzS7vA  "20.- 'conversation conservation'")
+[![21.- 'Gloomy dances'](https://img.youtube.com/vi/jojN7p_oBsw/0.jpg)](https://www.youtube.com/watch?v=jojN7p_oBsw  "21.- 'Gloomy dances'")
+[![22.- 'Not Too Bad'](https://img.youtube.com/vi/5D2dG7wPEGc/0.jpg)](https://www.youtube.com/watch?v=5D2dG7wPEGc  "22.- 'Not Too Bad'")
+[![23.- 'There is Another'](https://img.youtube.com/vi/yJaQezPFOdc/0.jpg)](https://www.youtube.com/watch?v=yJaQezPFOdc  "23.- 'There is Another'")
