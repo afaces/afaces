@@ -24,3 +24,5 @@
 [![23.- 'There is Another'](https://img.youtube.com/vi/yJaQezPFOdc/0.jpg)](https://www.youtube.com/watch?v=yJaQezPFOdc  "23.- 'There is Another'")
 [![24.- 'There is Another'](https://img.youtube.com/vi/0sYNIjkrPnY/0.jpg)](https://www.youtube.com/watch?v=0sYNIjkrPnY  "24.- 'Cafés'")
 [![25.- 'Mental Breakdown in The Virtual Kitchen'](https://img.youtube.com/vi/SDWjbspXElQ/0.jpg)](https://www.youtube.com/watch?v=SDWjbspXElQ  "25.- 'Mental Breakdown in The Virtual Kitchen'")
+[![26.- 'Natural Stupidity'](https://img.youtube.com/vi/c60OIAPuF3E/0.jpg)](https://www.youtube.com/watch?v=c60OIAPuF3E  "26.- 'Natural Stupidity'")
+[![27.- 'Uncivil'](https://img.youtube.com/vi/b63grPuQfpw/0.jpg)](https://www.youtube.com/watch?v=b63grPuQfpw  "27.- 'Uncivil'")
